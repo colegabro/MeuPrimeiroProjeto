@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Bolo de banana");
+﻿Conta c = new Conta();
+
+c.SetSaldo(500);

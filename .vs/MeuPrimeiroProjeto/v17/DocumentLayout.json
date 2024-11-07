@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\2023202060003\\source\\repos\\MeuPrimeiroProjeto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B9E43173-BBF9-40F2-B70F-DB6A77DB2246}|MeuPrimeiroProjeto.csproj|c:\\users\\2023202060003\\source\\repos\\meuprimeiroprojeto\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E43173-BBF9-40F2-B70F-DB6A77DB2246}|MeuPrimeiroProjeto.csproj|solutionrelative:conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B9E43173-BBF9-40F2-B70F-DB6A77DB2246}|MeuPrimeiroProjeto.csproj|c:\\users\\2023202060003\\source\\repos\\meuprimeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9E43173-BBF9-40F2-B70F-DB6A77DB2246}|MeuPrimeiroProjeto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060003\\source\\repos\\MeuPrimeiroProjeto\\Conta.cs",
+              "RelativeDocumentMoniker": "Conta.cs",
+              "ToolTip": "C:\\Users\\2023202060003\\source\\repos\\MeuPrimeiroProjeto\\Conta.cs",
+              "RelativeToolTip": "Conta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:42:25.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2023202060003\\source\\repos\\MeuPrimeiroProjeto\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\2023202060003\\source\\repos\\MeuPrimeiroProjeto\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T00:14:00.908Z",
               "EditorCaption": ""
