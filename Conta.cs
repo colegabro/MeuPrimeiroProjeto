@@ -4,13 +4,19 @@
 
     public void SetSaldo(double s)
     {
-        if (s >= 0)
+        try
         {
-            saldo = s;
-        }else
+            if (s >= 0)
+            {
+                saldo = s;
+            }
+            else
+            {
+                throw new Exception("O saldo não pode ser negativo!");
+            }
+        } catch (Exception ex)  
         {
-            Console.WriteLine("Saldo inválido");
+            throw new Exception(ex.Message);
         }
-
     }
 }
